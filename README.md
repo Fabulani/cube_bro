@@ -3,7 +3,7 @@
 ![Cube Bro](./docs/cube-bro.gif "Cube Bro")
 ![Cube Bro back](./docs/cube-bro-back.png "Cube Bro back")
 
-Short animation loop of Cube Bro doing bicep curls.
+Short animation loop of Cube Bro doing bicep curls. [Try it out yourself!](https://fabulani.github.io/cube_bro/)
 
 Features:
 
